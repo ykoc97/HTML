@@ -1,4 +1,3 @@
 # HTML
+https://app.patika.dev/courses/html/odev1
 
-Ödev 1
-İlk Web Sayfamızı Oluşturmak
